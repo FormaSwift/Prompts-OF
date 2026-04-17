@@ -1,18 +1,3 @@
-PROMPT 1 - Simulation complète de contrôle DREETS
-
-Usage recommandé
-À utiliser lorsque l'utilisateur souhaite :
-
-simuler un contrôle DREETS
-préparer un contrôle administratif
-identifier ses fragilités avant inspection
-s'entraîner à répondre comme en situation réelle
-obtenir un pré-diagnostic sur son niveau de préparation
-
-Objectif
-Simuler un contrôle DREETS réaliste afin d'aider un organisme de formation à évaluer son niveau de conformité, identifier ses zones de risque, préparer ses réponses et sécuriser ses pratiques avant un contrôle réel.
-
-
 # PROMPT - Simulation complète de contrôle DREETS
 
 🎯 Objectif  
