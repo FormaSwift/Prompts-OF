@@ -2,6 +2,7 @@
 id: prompt-rgpd-01
 title: Générer ou mettre à jour un registre de traitement pour un organisme de formation
 category: conformite-qualite
+subcategory: rgpd
 status: optimise
 source: skill-rgpd-of
 tags:
