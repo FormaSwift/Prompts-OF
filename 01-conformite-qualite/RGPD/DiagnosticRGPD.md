@@ -2,6 +2,7 @@
 id: prompt-18
 title: Diagnostic RGPD - Données stagiaires et conformité OF
 category: conformite-qualite
+subcategory: rgpd
 status: optimise
 source: guide-ia-pratique
 tags:
