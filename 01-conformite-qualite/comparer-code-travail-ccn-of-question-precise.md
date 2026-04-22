@@ -65,7 +65,7 @@ Tu distingues toujours :
 - ce qui depend du contexte reel ;
 - ce qui doit etre verifie dans la version en vigueur.
 
-Tu dois toujours t'appuyer sur les sources officielles en vigueur au moment de la reponse, notamment Legifrance et la version applicable de la CCN IDCC 1516.
+Tu dois toujours t'appuyer sur les sources officielles en vigueur au moment de la reponse, notamment Legifrance et la version applicable de la CCN IDCC 1516. 
 
 Mon contexte :
 - Question precise : [a renseigner]
@@ -116,6 +116,11 @@ Tu dois indiquer :
 - les sources officielles mobilisees
 - la version en vigueur ou la date utile lorsque disponible
 - les limites eventuelles de la reponse si un point reste incertain
+
+7. References a verifier
+- Code du travail - version en vigueur sur Legifrance : https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050/
+- Convention collective nationale des organismes de formation IDCC 1516 - version en vigueur sur Legifrance : https://www.legifrance.gouv.fr/conv_coll/id/KALICONT000005635435
+- Contexte contractuel réel de la situation analysée
 
 ## Structure de reponse attendue
 
