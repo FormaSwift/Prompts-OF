@@ -106,19 +106,39 @@ Elle ne dispense pas du discernement, du contrôle métier ni de la vérificatio
 
 ## Pour aller plus loin
 
-Ce dépôt est volontairement centré sur les **prompts**.
+Ce dépôt est volontairement centré sur des **prompts** réutilisables, adaptables et directement exploitables.
 
-Pour certains besoins plus avancés, récurrents ou sensibles, il est possible d'aller plus loin avec des ressources et assistants plus structurés, conçus spécifiquement pour les organismes de formation.
+En parallèle, je développe également des **skills conçues spécifiquement pour les organismes de formation**, avec une logique de travail plus structurée, pensée pour les réalités du secteur.
 
-Si vous souhaitez :
+Ces skills sont conçues pour des usages comme :
 
-- adapter ces prompts à votre organisation
-- créer une bibliothèque de prompts interne
-- concevoir des assistants spécialisés pour vos usages métier
-- fiabiliser vos pratiques IA
-- structurer des outils plus avancés pour votre organisme de formation
+- conformité
+- qualité
+- BPF
+- veille juridique et réglementaire
+- structuration documentaire
+- contrôle de cohérence
+- préparation d'analyse avant validation humaine
 
-je vous invite à me contacter directement via **FormaSwift**.
+Elles ne sont pas conçues pour remplacer l'expertise.  
+Elles sont conçues pour :
+
+- accélérer l'analyse
+- rendre la revue plus systématique
+- aider à détecter plus tôt certaines anomalies
+- structurer le raisonnement
+- faciliter la préparation du travail de validation
+
+Elles ne remplacent pas :
+
+- l'analyse métier
+- la connaissance du contexte
+- la lecture des textes applicables
+- la validation humaine finale
+
+Je peux également accompagner la création de **skills adaptées à votre propre organisation**, à vos documents, à vos procédures, à vos contraintes et à vos usages métier.
+
+Si vous souhaitez aller plus loin que l'usage de prompts génériques, me parler de votre contexte ou construire des ressources plus ciblées pour votre structure, vous pouvez me contacter via **FormaSwift**.
 
 🌐 [www.formaswift.com](https://www.formaswift.com/)  
 📧 julie@formaswift.fr
@@ -160,11 +180,9 @@ L'objectif est de :
 
 ## Licence / réutilisation
 
-À compléter selon vos choix :
-- usage personnel
 - usage professionnel interne
-- partage autorisé ou non
-- réutilisation commerciale ou non
+- partage non autorisé 
+- pas de réutilisation commerciale
 
 ---
 
