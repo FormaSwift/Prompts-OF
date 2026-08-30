@@ -180,9 +180,15 @@ L'objectif est de :
 
 ## Licence / réutilisation
 
-- usage professionnel interne
-- partage non autorisé 
-- pas de réutilisation commerciale
+Ces ressources sont librement utilisables et adaptables, y compris dans un cadre professionnel.
+Ce que vous produisez avec elles vous appartient.
+
+Leur revente, leur sous-licence et leur diffusion comme produit ne sont pas autorisées.
+
+Merci de citer FormaSwift lorsque vous les partagez ou les publiez adaptées.
+
+Le détail : [LICENCE.md](LICENCE.md).
+
 
 ---
 
