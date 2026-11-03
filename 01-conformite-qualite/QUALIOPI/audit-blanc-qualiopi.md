@@ -33,7 +33,7 @@ Il est particulièrement utile quelques semaines avant un audit initial, de surv
 - Le référentiel de travail est le **RNQ V10 : 7 critères, 33 indicateurs** (décret n° 2026-728 du 1er août 2026, en vigueur depuis le 1er novembre 2026). L'indicateur 33 est spécifique à l'apprentissage : ne l'appliquer qu'aux organismes concernés.
 - Les **modalités d'audit** sont fixées par l'arrêté du 28 octobre 2026 (qui modifie l'arrêté du 6 juin 2019). Textes officiels : [décret](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054608509) et [arrêté](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055041105).
 - Ce prompt est autonome : il fonctionne sans autre fichier. Si vous pouvez joindre les textes officiels (décret, arrêté consolidé, guide de lecture) à la conversation, l'analyse sera plus fiable ; sinon l'assistant doit écrire « source non consultée » et ne pas citer de règle précise sans réserve.
-- Une note sur la période transitoire (certains organismes déjà certifiés peuvent être audités jusqu'au 31 décembre 2026 selon les règles du 31 octobre 2026) n'est utile que si elle change votre cas.
+- Période transitoire : certains organismes déjà certifiés peuvent être audités jusqu'au 31 décembre 2026 selon les règles du 31 octobre 2026. Elle ne concerne donc pas un audit programmé à partir du 1er janvier 2027 : dans ce cas, appliquez la V10 sans autre réserve.
 
 ## Deux modes d'utilisation
 - **Question unique** : vous posez une question sur un indicateur ou un point de preuve. L'assistant répond de façon concise, sans dérouler les 33 indicateurs.
