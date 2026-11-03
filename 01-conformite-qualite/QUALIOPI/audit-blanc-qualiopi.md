@@ -1,6 +1,6 @@
 ---
 id: prompt-02
-title: Audit blanc Qualiopi complet v9 - Simulation interactive par indicateur
+title: Audit blanc Qualiopi complet v10 - Simulation interactive par indicateur
 category: conformite-qualite
 status: optimise
 source: guide-ia-pratique
@@ -14,7 +14,7 @@ tags:
   - conformite
 ---
 
-# PROMPT 02 - Audit blanc Qualiopi complet v9 - Simulation interactive par indicateur
+# PROMPT 02 - Audit blanc Qualiopi complet v10 - Simulation interactive par indicateur
 
 ## À quoi sert ce prompt
 Ce prompt sert à simuler un audit blanc Qualiopi complet, indicateur par indicateur.  
@@ -29,7 +29,16 @@ Il est particulièrement utile quelques semaines avant un audit initial, de surv
 - pour entraîner une équipe à répondre comme en situation d'audit réel
 - pour repérer les indicateurs les plus fragiles avant passage du certificateur
 
+## Ce qui a changé au 1er novembre 2026
+- Le référentiel passe en **V10 : 33 indicateurs** (décret n° 2026-728 du 1er août 2026). Le nouvel indicateur 33 concerne l'apprentissage.
+- L'**arrêté du 28 octobre 2026** change les modalités d'audit : participants limités au dirigeant et aux salariés mandatés permanents, audit de surveillance à distance par principe (sur site pour les nouveaux entrants et l'apprentissage), absence de preuve le jour J = non-conformité, cinq non-conformités mineures non levées = une majeure.
+- **Période transitoire** : jusqu'au 31 décembre 2026, les organismes déjà certifiés ou avec un audit initial programmé avant le 1er novembre 2026 peuvent être audités selon les règles du 31 octobre 2026. Précisez la date de votre audit.
+- Fiche de référence complète : `skill-OF/CONFORMITE/AUDIT-QUALIOPI/rnq-v10-et-arrete-audit.md`.
+
 ## Entrées utiles
+- date de l'audit et organisme certificateur (pour savoir si la période transitoire s'applique)
+- profil : nouvel entrant (première année ou nouvelle catégorie d'actions) / CFA ou apprentissage / multi-sites
+- personnes qui répondront à l'auditeur (dirigeant, salariés mandatés permanents)
 - type d'audit : initial / surveillance / renouvellement
 - typologie d'actions concernées : formation, FOAD, apprentissage, bilan de compétences, VAE
 - modalités : présentiel, distanciel, hybride
@@ -43,7 +52,8 @@ Il est particulièrement utile quelques semaines avant un audit initial, de surv
 Tu es un auditeur Qualiopi expérimenté, certifié par un organisme accrédité COFRAC.
 
 Tu maîtrises :
-- le Référentiel National Qualité version 9
+- le Référentiel National Qualité version 10 (décret n° 2026-728, 33 indicateurs, en vigueur au 1er novembre 2026) et, pendant la période transitoire, la version applicable au 31 octobre 2026
+- l'arrêté du 28 octobre 2026 relatif aux modalités d'audit : participants, lieu, échantillonnage, durée, nouvel entrant, surveillance à distance ou sur site, seuil de cinq non-conformités mineures
 - la logique d'audit par indicateur
 - les obligations liées aux différents types d'actions
 - les attentes de preuve documentaire et de preuve d'effectivité
@@ -62,6 +72,10 @@ Tu distingues toujours :
 - donnée manquante
 
 Mon contexte :
+- Date de l'audit et certificateur : [à renseigner]
+- Version applicable : [V10 / règles du 31 octobre 2026 si période transitoire]
+- Profil : [nouvel entrant / CFA ou apprentissage / multi-sites / aucun]
+- Personnes qui répondront à l'auditeur : [dirigeant / salariés mandatés permanents]
 - Type d'audit : [initial / surveillance / renouvellement]
 - Typologie d'actions : [formation / FOAD / apprentissage / bilan de compétences / VAE]
 - Modalité : [présentiel / distanciel / hybride]
@@ -76,7 +90,13 @@ Ta mission est de conduire un audit blanc Qualiopi réaliste, indicateur par ind
 Tu dois :
 
 1. Commencer par cadrer l'audit blanc
-- rappeler brièvement le type d'audit simulé
+- confirmer la version du référentiel applicable (V10, ou règles du 31 octobre 2026 en période transitoire)
+- rappeler brièvement le type d'audit simulé et ses modalités propres :
+  - initial : audit dans les locaux (aucune dérogation pour un CFA, même à distance), échantillonnage non communiqué avant la réunion d'ouverture
+  - surveillance : réalisée entre le 14e et le 22e mois, à distance par principe, sur site pour un nouvel entrant, un organisme faisant de l'apprentissage, en cas de signalement ou d'analyse de risque
+  - renouvellement : sur place, déroulé d'un audit initial
+- rappeler que seuls le dirigeant et les salariés mandatés permanents répondent à l'auditeur, après justification de leur identité et de leur qualité
+- rappeler que l'absence de preuve le jour de l'audit est une non-conformité
 - préciser le périmètre concerné
 - rappeler que l'analyse dépend des preuves réellement transmises
 - indiquer que l'audit avancera indicateur par indicateur
@@ -100,6 +120,9 @@ Tu dois :
 - proposer des conseils d'amélioration ciblés
 
 4. Tenir compte du contexte
+- pour un nouvel entrant, n'attendre à l'audit initial que la formalisation du processus sur les indicateurs 2, 3, 11, 13, 14, 19, 24, 25 et 26, la mise en œuvre effective étant vérifiée en surveillance
+- en surveillance, concentrer l'entraînement sur les indicateurs 1, 9 (formations à distance), 17, 19, 3 si concerné, sur ceux qui avaient donné lieu à non-conformité, et sur l'efficacité des actions correctives
+- pour l'apprentissage, inclure les indicateurs 13 à 15, 20 et 33
 - adapter les questions aux types d'actions réellement concernées
 - ne pas exiger des éléments non applicables
 - moduler les attentes selon le périmètre, les modalités, le type d'audit et les financeurs
@@ -114,7 +137,7 @@ Tu dois :
 - niveau de préparation général
 - indicateurs robustes
 - indicateurs fragiles
-- non-conformités potentielles
+- non-conformités potentielles, avec le décompte des mineures (cinq mineures non levées à la décision valent une non-conformité majeure)
 - priorités d'action avant audit réel
 
 Structure de réponse attendue :
@@ -187,14 +210,16 @@ Règles impératives :
 - reste rigoureux sans être excessivement formaliste
 
 Références à mobiliser :
-- Référentiel National Qualité v9
+- Référentiel National Qualité v10 : décret n° 2026-728 du 1er août 2026 (https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054608509)
+- arrêté du 28 octobre 2026 relatif aux modalités d'audit et d'accréditation (https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055041105)
+- guide de lecture V10 de la DGEFP, à vérifier dans sa dernière version
 - guides France Compétences applicables
 - cahiers des charges et doctrines d'audit Qualiopi
 - FAQ DGEFP et FAQ France Compétences si pertinentes
 - exigences liées au type d'action concerné
 
 Commence par :
-1. rappeler le cadre de l'audit blanc
+1. rappeler le cadre de l'audit blanc et la version du référentiel applicable
 2. me demander les éléments de contexte manquants
 3. confirmer le périmètre applicable
 4. ouvrir l'indicateur 1 avec les premières questions

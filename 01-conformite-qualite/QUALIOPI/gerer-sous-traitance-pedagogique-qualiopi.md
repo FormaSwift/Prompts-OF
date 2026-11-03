@@ -211,7 +211,7 @@ Générer un modèle directement réutilisable.
 - les exigences spécifiques de certains financeurs ou du CPF peuvent nécessiter des vérifications complémentaires
 
 ## Références a vérifier
-- Référentiel National Qualité v9, notamment les indicateurs 3, 27 et 28
+- Référentiel National Qualité v10, notamment l'indicateur 27 (sous-traitance et portage, traçabilité dans les contrats) et, selon le cas, les indicateurs 3, 7 et 16 (certification professionnelle) et 28 (formation en situation de travail)
 - Code du travail applicable au contexte de la sous-traitance en formation
 - règles ou exigences spécifiques liées au CPF si concerné
 - pratiques contractuelles et documentaires de l'organisme

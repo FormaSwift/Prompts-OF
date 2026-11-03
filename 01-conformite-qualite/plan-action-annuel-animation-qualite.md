@@ -217,7 +217,7 @@ Generer une trame directement reutilisable.
 - une animation qualite efficace suppose une repartition claire des roles
 
 ## References a verifier
-- Referentiel Qualiopi v9
+- Référentiel National Qualité v10
 - cycle PDCA
 - bonnes pratiques de planification et d'animation qualite
 - organisation reelle et temps disponible dans l'organisme

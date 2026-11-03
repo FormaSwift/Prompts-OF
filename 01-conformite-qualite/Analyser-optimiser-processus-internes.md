@@ -230,7 +230,7 @@ Distinguer :
 
 ## References a verifier
 - methodes d'amelioration continue : Lean, PDCA
-- Référentiel National Qualite v9
+- Référentiel National Qualité v10
 - principes de cartographie de processus utiles en ISO 9001
 - bonnes pratiques de gestion documentaire
 - organisation reelle et outils effectivement utilises par l'organisme

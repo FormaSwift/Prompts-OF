@@ -199,8 +199,9 @@ Présenter un tableau avec des colonnes du type :
 - les actions proposées doivent rester proportionnées au niveau réel de criticité
 
 ## Références à vérifier
-- Référentiel National Qualité v9
-- indicateur 30 relatif à l'écoute des appréciations et à leur exploitation
+- Référentiel National Qualité v10 (décret n° 2026-728 du 1er août 2026, en vigueur au 1er novembre 2026)
+- indicateurs 30 à 32 relatifs au recueil des appréciations, au traitement des réclamations et à l'amélioration continue
+- indicateur 33 (apprentissage) : évaluation des contenus et des enseignements par les apprenants, distincte du recueil général de satisfaction
 - bonnes pratiques qualité applicables aux organismes de formation
 - méthodes d'amélioration continue : PDCA, 8D, matrice de criticité
 - processus internes de traitement des réclamations, insatisfactions et pistes d'amélioration
