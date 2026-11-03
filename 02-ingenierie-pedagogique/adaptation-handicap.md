@@ -171,7 +171,7 @@ Rédiger une proposition structurée, professionnelle et directement exploitable
 
 ## Références à vérifier
 - Code du travail, notamment les dispositions relatives à l'emploi et à l'adaptation des situations de travail des personnes en situation de handicap
-- Référentiel Qualiopi, indicateur 26
+- Référentiel Qualiopi V10, indicateurs 4 (analyse du besoin), 10 (adaptation) et 26 (expertises et réseaux mobilisés)
 - guides Agefiph et FIPHFP
 - éléments utiles sur la RQTH et les processus de reconnaissance
 - recommandations d'accessibilité selon le type de handicap et le contexte d'usage

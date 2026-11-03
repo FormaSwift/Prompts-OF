@@ -208,7 +208,7 @@ Produire un modele simple et exploitable.
 - les consignes doivent correspondre aux pratiques reelles de l'organisme
 
 ## References a verifier
-- Referentiel Qualiopi, notamment les indicateurs 9, 10 et 28
+- Referentiel Qualiopi V10, notamment les indicateurs 9 (information sur le deroulement), 10 (adaptation), 18 (coordination des intervenants) et 21 (competences des intervenants), a verifier selon le cas
 - obligations administratives utiles : emargement, evaluation, reporting
 - bonnes pratiques d'accueil de formateurs vacataires
 - outils et documents reels de l'organisme
