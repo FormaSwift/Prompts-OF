@@ -162,5 +162,5 @@ Présenter un tableau de pilotage avec des colonnes du type :
 - Code du travail sur la formation professionnelle et l'obligation d'adaptation
 - dispositifs de financement OPCO, CPF et FNE-Formation
 - méthodes de GPEC
-- indicateurs Qualiopi utiles au pilotage, notamment l'indicateur 25
+- si l'organisation est un organisme de formation : indicateurs Qualiopi utiles au pilotage, notamment l'indicateur 22 (développement des compétences des salariés) et, selon le cas, les indicateurs de veille 23 à 25
 - règles internes de l'organisation ou de la branche si elles influencent les arbitrages

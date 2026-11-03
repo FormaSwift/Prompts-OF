@@ -76,12 +76,14 @@ Tu dois :
 1. Analyser les écarts
 - relire tous les écarts ou observations transmis
 - distinguer les non-conformités, les fragilités et les axes d'amélioration
-- pour un audit Qualiopi, compter les non-conformités mineures non levées : à partir de cinq à la prise de décision, elles valent une non-conformité majeure (arrêté du 28 octobre 2026, en vigueur au 1er novembre 2026) et bloquent la délivrance du certificat
-- pour un nouvel entrant, repérer les indicateurs dont la mise en œuvre effective sera vérifiée à l'audit de surveillance (2, 3, 11, 13, 14, 19, 24, 25, 26)
+- pour un audit Qualiopi, vérifier le libellé exact du texte applicable avant d'en tirer une conséquence : l'arrêté du 28 octobre 2026 prévoit qu'au moins cinq non-conformités mineures non levées à la prise de décision constituent une non-conformité majeure (article 1 bis, V, pour l'audit initial ; vérifier les dispositions pour la surveillance et le renouvellement). C'est l'état à la décision qui compte ; les écarts potentiels relevés par une IA ne sont pas des non-conformités réglementaires
+- pour un nouvel entrant, repérer les indicateurs dont la mise en œuvre effective sera vérifiée à l'audit de surveillance (liste à vérifier dans l'arrêté)
+- ne pas inventer de délais : signaler seulement les échéances fixées par le certificateur ou par le texte, et celles que l'utilisateur transmet
 - classer les écarts par criticité et exigence réglementaire
 - signaler les points insuffisamment documentés
 
 2. Proposer des actions correctives
+Distingue pour chaque écart : la correction immédiate, l'analyse de cause, l'action corrective, la preuve d'exécution et la preuve d'efficacité. Propose des actions proportionnées à la cause, pas seulement la création d'un document.
 Pour chaque écart, préciser :
 - l'action corrective à mener
 - le responsable pressenti
@@ -99,6 +101,7 @@ Pour chaque écart, préciser :
 - lister les documents à corriger, créer ou transmettre
 - distinguer les documents de réponse immédiate et les documents de sécurisation à moyen terme
 - signaler les preuves attendues pour démontrer la correction
+- distinguer les documents à présenter au certificateur ou à l'inspecteur (preuves existantes) des documents à créer à partir de maintenant. Ne suggère jamais de fabriquer une preuve rétroactivement, ni de dater un document à une date antérieure à sa création
 
 5. Générer un tableau de pilotage
 Le tableau doit permettre de suivre :
