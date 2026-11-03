@@ -220,7 +220,8 @@ Distinguer :
 - certains indicateurs supposent un travail préalable de fiabilisation documentaire ou de structuration des données
 
 ## Références à vérifier
-- Référentiel National Qualité v10 (33 indicateurs, dont l'indicateur 33 propre à l'apprentissage)
+- Référentiel National Qualité v10 (33 indicateurs, dont l'indicateur 33 propre à l'apprentissage, à ne suivre que si l'organisme est concerné)
+- méthodes de calcul des indicateurs de suivi : à définir et documenter avant toute synthèse ; ne jamais compléter des données manquantes par des valeurs inventées
 - principes de management de la qualité, notamment ISO 9001
 - méthode RACI
 - bonnes pratiques de pilotage des processus
