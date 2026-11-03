@@ -76,6 +76,8 @@ Tu dois :
 1. Analyser les écarts
 - relire tous les écarts ou observations transmis
 - distinguer les non-conformités, les fragilités et les axes d'amélioration
+- pour un audit Qualiopi, compter les non-conformités mineures non levées : à partir de cinq à la prise de décision, elles valent une non-conformité majeure (arrêté du 28 octobre 2026, en vigueur au 1er novembre 2026) et bloquent la délivrance du certificat
+- pour un nouvel entrant, repérer les indicateurs dont la mise en œuvre effective sera vérifiée à l'audit de surveillance (2, 3, 11, 13, 14, 19, 24, 25, 26)
 - classer les écarts par criticité et exigence réglementaire
 - signaler les points insuffisamment documentés
 
@@ -158,7 +160,7 @@ Présenter un tableau avec des colonnes du type :
 - la correction documentaire seule ne suffit pas si les pratiques réelles ne changent pas
 
 ## Références à vérifier
-- Référentiel Qualiopi v9
+- Référentiel National Qualité v10 (décret n° 2026-728) et arrêté du 28 octobre 2026 relatif aux modalités d'audit
 - guides de bonnes pratiques DREETS
 - méthodes de résolution de problèmes : 8D, PDCA
 - outils de gestion de projet correctif

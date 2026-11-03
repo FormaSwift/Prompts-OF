@@ -224,4 +224,4 @@ Générer le ou les documents utiles, avec mentions [À COMPLÉTER] si nécessai
 - loi Informatique et Libertés
 - recommandations CNIL applicables
 - contrats et DPA des outils utilisés
-- Référentiel National Qualité v9 si articulation qualité pertinente
+- Référentiel National Qualité v10 si articulation qualité pertinente

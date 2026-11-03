@@ -220,7 +220,7 @@ Distinguer :
 - certains indicateurs supposent un travail préalable de fiabilisation documentaire ou de structuration des données
 
 ## Références à vérifier
-- Référentiel National Qualité v9
+- Référentiel National Qualité v10 (33 indicateurs, dont l'indicateur 33 propre à l'apprentissage)
 - principes de management de la qualité, notamment ISO 9001
 - méthode RACI
 - bonnes pratiques de pilotage des processus
